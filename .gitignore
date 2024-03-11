@@ -1,8 +1,10 @@
 venv
 /venv
-/venv
-venv
 venv\Include
 venv\Lib
 venv\Scripts
 venv\pyvenv.cfg
+
+RandomData.xlsx
+
+TreeData.xlsx
