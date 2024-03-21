@@ -5,7 +5,6 @@ from openpyxl.chart import BarChart, Series, Reference
 import random
 import string
 
-
 wb = Workbook()
 ws = wb.active
 header = ["Name", "Country", "Hobby", "Environment",
